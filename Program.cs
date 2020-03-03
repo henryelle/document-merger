@@ -15,8 +15,9 @@ namespace Document_Merger1
             string path = (Directory.GetCurrentDirectory() + "/");
             string response = "";
 
-            //I TRIED SO HARD TO DO A TRY-CATCH IM SORRY IM GONNA CRY
-            //I dont really understand them
+            //so the scope of a try-catch really confused me at first
+            //but i think i understand it now!
+            //granted this program does what it needs very simply without any exceptions
 
             Console.WriteLine("Document Merger\n");
             
